@@ -5,7 +5,7 @@
 _**Embarking on the CoffeeBeans Journey - Where Data Meets Aromas**_
 
 ## Coffee Maestro
-- [@Mohammad Kaif Tahir]([https://github.com/coffeelover01](https://github.com/Md-Kaif-Tahir)) ☕🌟
+- [@Mohammad Kaif Tahir](https://github.com/Md-Kaif-Tahir) ☕🌟
 
 ## What's Brewing in the Data? 📊☕
 - The CoffeeBeans Coffee Sales Dataset isn't just about numbers; it's a journey through the aromatic world of coffee. Discover the tales of sales, know your coffee-loving customers, and unveil the details of each coffee product. It's not just data; it's the key to understanding what clicks with consumers, tweaking products for the better, and navigating the coffee business smartly. 🌐📈
